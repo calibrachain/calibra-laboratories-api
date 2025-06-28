@@ -107,14 +107,6 @@ The application can be configured through the `application.properties` file. Key
 - Logging levels
 - API versioning
 
-## Development
-
-### Running Tests
-
-```bash
-mvn test
-```
-
 ## License
 
 This project is licensed under the terms of the license included in the repository.
